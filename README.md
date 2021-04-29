@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ImaanKher
+- 👋 Hi, I’m Imaan Kherekar
 - 👀 I’m interested in learning more about technology
 - 🌱 I’m currently learning how to use Github haha
 - 💞️ I’m looking to collaborate on ...
